@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
+#slogan {
+	font-weight: bold;
+	text-align: center;
+	font-family: 'Varela Round';
+	color: rgb(255, 00, 100);
+	font-weight: 900;
+	font-style: italic;
+	text-transform: uppercase;
+	font-size: 50px;
+	line-height: .25em;
+}
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+	font-family: 'Varela Round';    
+	color: rgb(255,00,100);
+	font-size: 28px;
+	line-height: .5em;
+}
+
+p {
+	color: black;
+	text-align: center;
+	font-family: 'Slabo 27px';
+}
+
+ul {
+	color: rgb(255,00,100);
+	margin-left: 535px;
+	font-family: 'Slabo 27px';
+}
+
+body {
+	background: black;
+}
+
+hr {
+	color: rgb(255,00,100);
+	width: 500px;
+	font-family: 'Slabo 27px';
+}
+
+p1 {
+	color: rgb(255,00,100);
+	margin: 180px;
+	text-decoration: underline;
+	font-family: 'Slabo 27px';
+	line-height: .75em;
+}
+
+p2 {
+	color: rgb(255,00,100);
+	margin: center;
+	font-family: 'Slabo 27px';
+}
+
+header {
+	background-color: black;
+	border: 1px black solid;
+	padding: 5px;
+}
+
+nav {
+	background-color: black;
+}
+
+aside {
+	background-color: black;
+	border: 1px black solid;
+	margin: 2em;
+	padding: 0 2em 0 3em;
+}
+
+article {
+	background-color: black;
+	border: 1px black solid;
+	margin: 2em;
+	padding: 0 2em 0 3em;
+}
+
+#two_column {
+	background-color: black;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 30%;
+
+	
+}
+
+#right {
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+	
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	background-color: #FFE2B8;
+}
+
+div {
+	background-color: black;
+}
+
+section {
+	background-color: #FFE2B8;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+
+}
